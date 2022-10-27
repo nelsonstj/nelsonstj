@@ -1,5 +1,12 @@
 ## Nelson Sturaro Junior
 
+<div align="center">
+  <a href="https://github.com/nelsonstj">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nelsonstj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonstj&layout=compact&langs_count=7&theme=radical"/>
+
+</div>
+
 ## 💡 Sobre o projeto:
 Projeto de exemplo para a montagem do Read me.
 
@@ -36,18 +43,13 @@ Apenas informar.
   Autor: <a alt="Nelson Sturaro Junior" href="https://github.com/nelsonstj">Nelson Sturaro Junior</a>
 </h3>
 
-<p align="center">
-  <a alt="Nelson Sturaro Junior - GitHub" href="https://github.com/nelsonstj">
-    <img src="https://img.shields.io/badge/GitHub-nelsonstj-blue?logo=github"/>
-  </a>
-  <a alt="Nelson Sturaro Junior - Linkedin" href="https://www.linkedin.com/in/nelsonstj" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nelson%20Sturaro%20Junior-blue?logo=linkedin"/>
-  </a>
-  <a alt="Nelson Sturaro Junior - Twitter" href="https://twitter.com/nelsonstj" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-nelsonstj-blue?logo=twitter"/>
-  </a>
-</p>
+<div align="center"> 
+ <a href = "mailto:nelsonstj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nelsonstj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+ <!-- ![Snake animation](https://github.com/nelsonstj/nelsonstj/blob/output/github-contribution-grid-snake.svg) -->
+ 
+</div>
 
 <!--
 **nelsonstj/nelsonstj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
