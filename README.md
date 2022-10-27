@@ -1,29 +1,4 @@
-<a href="https://github.com/nelsonstj">
-  <img alt="Autor" src="https://img.shields.io/badge/autor-Nelson%20Sturaro%20Junior-004400?style=flat-square">
-</a>
-
-<a href="#">
-  <img alt="Linguagens" src="https://img.shields.io/github/languages/count/nelsonstj/nelsonstj?color=004400&style=flat-square">
-</a>
-
-<a href="https://github.com/nelsonstj/nelsonstj/stargazers">
-  <img alt="Stars" src="https://img.shields.io/github/stars/nelsonstj/nelsonstj?color=004400&style=flat-square">
-</a>
-
-<a href="https://github.com/nelsonstj/nelsonstj/network/members">
-  <img alt="Forks" src="https://img.shields.io/github/forks/nelsonstj/nelsonstj?color=004400&style=flat-square">
-</a>
-
-<a href="#">
-  <img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/nelsonstj/nelsonstj?color=004400&style=flat-square">
-</a>
-
-<a href="https://github.com/nelsonstj/nelsonstj/commits/master">
-  <img alt="Commits" src="https://img.shields.io/github/last-commit/nelsonstj/nelsonstj?color=004400&style=flat-square">
-</a>
-
-<br/>
-<hr/>
+## Nelson Sturaro Junior
 
 ## 💡 Sobre o projeto:
 Projeto de exemplo para a montagem do Read me.
@@ -31,24 +6,29 @@ Projeto de exemplo para a montagem do Read me.
 ## 🔥 Quais são as funcionalidades?
 Apenas informar.
 
-## ⚙️ Techs:
-- .Net Core 3.1
-- Entity Framework Core
-- Injeção de dependência
-
-## ⛏ Ferramentas:
-- Visual Studio Code (https://code.visualstudio.com/download)
-- Postman (https://www.postman.com/downloads)
-
-## 🏁 Executar esse projeto:
-Para funcionar precisa ajustar acesso a banco de dados SQL Server e criação da tabela de usuário.
-
-Chamada JSon:
-{
-     "loginOrEmail": "xxxxxxxxx",
-     "password": "123456"
-}
-<br/>
+## ⚙️ Techs e ⛏ Ferramentas:
+<div style="display: inline_block;"><br />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+</div>
 
 ---
 
