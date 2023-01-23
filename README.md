@@ -1,11 +1,11 @@
 ## Nelson Sturaro Junior
 
-<div align="center">
+<!--div align="center">
   <a href="https://github.com/nelsonstj">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nelsonstj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonstj&layout=compact&langs_count=7&theme=radical"/>
 
-</div>
+</div-->
 
 ## 💡 Sobre o projeto:
 Projeto de exemplo para a montagem do Read me.
