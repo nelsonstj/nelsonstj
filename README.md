@@ -7,13 +7,13 @@
 
 </div-->
 
-## 💡 Sobre o projeto:
-Projeto de exemplo para a montagem do Read me.
+## 💡 About the project:
+Example project for assembling Read me.
 
-## 🔥 Quais são as funcionalidades?
-Apenas informar.
+## 🔥 What are the features?
+Just inform.
 
-## ⚙️ Techs e ⛏ Ferramentas:
+## ⚙️ Techs e ⛏ Tools:
 <div style="display: inline_block;"><br />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -43,6 +43,7 @@ Apenas informar.
   Autor: <a alt="Nelson Sturaro Junior" href="https://github.com/nelsonstj">Nelson Sturaro Junior</a>
 </h3>
 
+## 📫 How to reach me:
 <div align="center"> 
  <a href = "mailto:nelsonstj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nelsonstj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
